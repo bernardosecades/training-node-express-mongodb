@@ -46,7 +46,7 @@ or
 npm start
 ```
 
-With nodemon (Detect changes in your code and automatically restart the server)_
+With nodemon (Detect changes in your code and automatically restart the server):
 
 ```bash
 nodedemon app.js
