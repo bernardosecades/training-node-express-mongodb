@@ -63,6 +63,12 @@ mongo
 show databases
 ```
 
+## Makefile
+
+- `make start-docker`
+- `make stop-docker`
+- `make ssh-mongodb`
+- `make run-app`
 
 
 
