@@ -1,0 +1,19 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "Training node, express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "billing",
+    "sales"
+  ],
+  "author": "bernardosecades",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.15"
+  }
+}
